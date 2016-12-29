@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="" class="no-js">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-store,must-revalidate">
+    <meta http-equiv="expires" content="0">
+    <link href="" rel="stylesheet">
+    <title>试玩团</title>
+		<style>
+			body {
+				margin: 0;
+				opacity: 0;
+				overflow: hidden;
+			}
+			a {
+				text-decoration: none;
+			}
+			img {
+				width: 100%;
+			}
+			.key-index-page {
+				position: relative;
+				padding: 0!important;
+			}
+			.key-web-wrap {
+				position: absolute;
+				left: 0;
+				top: 20%;
+				width: 100%;
+				color: #fff;
+				text-align: center;
+			}
+			.key-logo {
+				width: 5rem;
+			}
+			.key-logo	h2 {
+				font-size: 1.83rem;
+				font-family: PingFang SC Heavy;
+				padding: 3.33rem 0 1rem;
+			}
+			.key-logo	p {
+				font-size: 1.083rem;
+				padding-bottom: 3.33rem;
+				font-weight: bold;
+			}
+			.download-url {
+				display: block;
+				line-height: 3.33rem;
+				width: 14.17rem;
+				border-radius: 1.66rem;
+				margin: 0 auto;
+				font-size: 1.5rem;
+				font-weight: bold;
+				color: #fff;
+				background: rgba(255,255,255,.1);
+				border: 1px solid rgba(255,255,255,.6);
+			}
+		</style>
+  </head>
+  <body>
+		<script type="text/javascript">
+			function fontResize() {
+			 var width = document.body.offsetWidth;
+			 var fontSize = width / 320 * 12;
+			 document.querySelector('html').style.fontSize = fontSize+'px';
+			 return fontSize
+			}
+			fontResize();
+			function urlParamsFormat(params) {
+				var result = {}
+				params.split('&').forEach(function(item) {
+					var tmp = item.split('=')
+					var key = tmp[0]
+					var value = tmp[1]
+					result[key] = value
+				})
+				return result
+			}
+			var params = urlParamsFormat(location.search.substr(1))
+			// ajax
+			var FETCH = new XMLHttpRequest();
+			// location.protocol = 'https:'
+			var url = '/firmware/client/package/?app_package_name='+params.app_package_name+'&app_version='+params.app_version
+			FETCH.open('GET', url, true)
+			FETCH.send()
+			FETCH.onreadystatechange = function() {
+				if (FETCH.readyState == 4) {
+					if (FETCH.status >= 200 && FETCH.status < 300 || FETCH.status == 304) {
+						const responseText = JSON.parse(FETCH.responseText || '{}')
+						if (responseText.ass === 7107) {
+							document.body.style.opacity = 1
+						}
+					}
+
+				}
+			};
+		</script>
+		<div class="container key-index-page">
+			<div>
+				<img src="./key-web.jpg" class="key-web" alt="" />
+				<div class="key-web-wrap">
+					<img src="./key-logo.png" class="key-logo" alt="" />
+					<h2>试玩守护已经开启</h2>
+					<p>试玩过程中请确保试玩守护始终在后台运行</p>
+					<a href="toWeb://" class="btn download-url">开始赚钱</a>
+				</div>
+			</div>
+		</div>
+  </body>
+</html>

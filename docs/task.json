@@ -1,0 +1,533 @@
+{
+	"atm_offers": [
+		{
+			"ad_id":"c8e128f3ecda08165b6afdd0fc333333",
+			"ad_type": 3,
+			"ad_url":"www.dianjoy.com",
+			"desc":"好",
+			"icon":"http://cc-cdn.dianjoy.com/91atm/images/a7bc5db.png",
+			"name":"一元截图任务（test）",
+			"number":80
+		}
+	],
+"installed_offers":[
+{
+	"tasks":{},
+	"text":"注册并参与一次夺宝",
+	"url_schema":"papapa://",
+	"rank":"3",
+	"install_notify_permit":"1",
+	"keywords":"打折",
+	"size":"23.5 MB",
+	"pay_ad":0,
+	"notInstalled":false,
+	"remain":"7646",
+	"needConfirmInstall":1,
+	"money":"积分",
+	"tips":"安装后体验3分钟",
+	"device_id":"0B99DE85-6CA8-49A6-88C2-FD52F5BD1550",
+	"thumbnail":[
+		"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201604/0_8704c8a10e945a96451f75041fe4ee50_h_400.jpeg",
+		"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201604/1_8704c8a10e945a96451f75041fe4ee50_h_400.jpeg"
+	],
+	"notice":"＊＊＊温馨提示！！请认准“白色”闪电logo及开发商Qian Li，下错了无法获得奖励！＊＊＊",
+	"ad_id":"6d946b075fe4fddc320e35ff612089da",
+	"description":"＊＊＊温馨提示！！请认准“白色”闪电logo及开发商Qian Li，下错了无法获得奖励！＊＊＊|<br />1.长按虚线，拷贝关键词“打折”；|<br />2.在手机桌面打开App Store，粘贴关键词并搜索；|<br />3.找到“闪电手夺宝”（约第3名）下载打开并注册；|<br />4.成功登陆，真实体验3分钟！",
+	"total_number":150,
+	"number":150,
+	"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201607/0_6d946b075fe4fddc320e35ff612089da_128_128.png",
+	"name":"闪电手夺宝",
+	"href_params":"ad_id=6d946b075fe4fddc320e35ff612089da&ad_name=%E9%97%AA%E7%94%B5%E6%89%8B%E5%A4%BA%E5%AE%9D&ad_url=https%3A%2F%2Fitunes.apple.com%2Fcn%2Fapp%2Fshan-dian-shou-duo-bao-yi%2Fid1077284457%3Fmt%3D8&snuid=&down=1&appid=818a97063d89227f1fe7aa5dbfc30694&deviceid=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&cid=IOS&activity_name=&lv=4.3.1A&number=150&money=%E7%A7%AF%E5%88%86&add_kj=true&active_time=40&app_package_name=com.wantuan.shiwan&pack_name=com.happy.papapa&befour_tips=00&setup_tips=00&cate=%E8%AF%95%E7%94%A8&imsi=%28null%29%26%28null%29%26%28null%29%26%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1&create_time=1461305671&token=1dcc758aee7f44ec16fd6431149efbfd&open_time=1470647293146&log_id=9b8e9b99a0ba1f2053940e6490c6fef3&step=chicken%2Cstep&ad_url_type=papapa%3A%2F%2F&openudid=88dbeddbf4d0d14b0875f5bf1e69b83dd3420ec3&open_url_type=0&process_name=OneDollar&os_version=8.4.1&needConfirmInstall=1&idfa=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&idfv=3DCB3974-394C-43CF-961A-78601F904B61&mac=",
+	"pack_name":"com.happy.papapa",
+	"ad_url":"https://itunes.apple.com/cn/app/shan-dian-shou-duo-bao-yi/id1077284457?mt=8"
+	},
+{
+"tasks":[
+	{
+		"task_type":"0",
+		"name":"一天后再次使用可得",
+		"task_id":"242186c401b1a55d14f3334e07a9a831",
+		"step_rmb":5,
+		"delta":"1",
+		"task_desc":"二次激活"
+	}
+],
+	"text":"注册试用3分钟即可获得奖励",
+	"url_schema":"wx0152273541918e97://",
+	"rank":"3",
+	"install_notify_permit":"1",
+	"keywords":"赚钱神器",
+	"size":"16.8 MB",
+	"pay_ad":0,
+	"notInstalled":false,
+	"remain":"3031",
+	"needConfirmInstall":0,
+	"money":"积分",
+	"tips":"注册试用3分钟",
+	"device_id":"0B99DE85-6CA8-49A6-88C2-FD52F5BD1550",
+	"thumbnail":{},
+	"notice":"",
+	"ad_id":"fd4a785c30d80e8cb7071df1cb968f03",
+	"description":"注意：必须注册成功才可获得奖励哦！|<br />1.长按虚线，复制关键词“赚钱神器”|<br />2.打开App Store，粘贴关键词并搜索|<br />3.请认准产品logo（约第3位）完成下载|<br />4.完成注册，登陆体验3分钟，得到奖励！",
+	"total_number":205,
+	"number":200,
+	"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201607/1_fd4a785c30d80e8cb7071df1cb968f03_128_128.png",
+	"name":"赚钱神器",
+	"href_params":"ad_id=fd4a785c30d80e8cb7071df1cb968f03&ad_name=%E8%B5%9A%E9%92%B1%E7%A5%9E%E5%99%A8&ad_url=https%3A%2F%2Fitunes.apple.com%2Fcn%2Fapp%2Fqq%2Fid1011068418&snuid=&down=1&appid=818a97063d89227f1fe7aa5dbfc30694&deviceid=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&cid=IOS&activity_name=&lv=4.3.1A&number=200&money=%E7%A7%AF%E5%88%86&add_kj=true&active_time=40&app_package_name=com.wantuan.shiwan&pack_name=com.zheyouziben.MoneyManagement&befour_tips=00&setup_tips=00&cate=%E6%B3%A8%E5%86%8C&imsi=%28null%29%26%28null%29%26%28null%29%26%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1&create_time=1449735424&token=df7035fc76fe167822342963960d7265&open_time=1470647293147&log_id=9b8e9b99a0ba1f2053940e6490c6fef3&step=chicken%2Cstep&ad_url_type=wx0152273541918e97%3A%2F%2F&openudid=88dbeddbf4d0d14b0875f5bf1e69b83dd3420ec3&open_url_type=1&process_name=cclc&os_version=8.4.1&needConfirmInstall=0&idfa=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&idfv=3DCB3974-394C-43CF-961A-78601F904B61&mac=",
+	"pack_name":"com.zheyouziben.MoneyManagement",
+	"ad_url":"https://itunes.apple.com/cn/app/qq/id1011068418"
+	},
+{
+"tasks":[
+	{
+		"task_type":"0",
+		"name":"一天后再次使用可得",
+		"task_id":"93810f81ab609310575d0b5e8b591f2b",
+		"step_rmb":5,
+		"delta":"1",
+		"task_desc":"二次激活"
+	},
+	{
+		"task_type":"0",
+		"name":"两天后再次使用可得",
+		"task_id":"84962456d2eafd4d9b6f20b8139d896e",
+		"step_rmb":5,
+		"delta":"2",
+		"task_desc":"二次激活"
+	}
+],
+"text":"首次下载并注册可得奖励",
+"url_schema":"QunarAlipay://",
+"rank":"1",
+"install_notify_permit":"2",
+"keywords":" 旅行去哪儿",
+"size":"92.7 MB",
+"pay_ad":0,
+"notInstalled":false,
+"remain":"1039",
+"needConfirmInstall":1,
+"money":"积分",
+"tips":"下载并注册",
+"device_id":"0B99DE85-6CA8-49A6-88C2-FD52F5BD1550",
+"thumbnail":{
+},
+"notice":"",
+"ad_id":"fa7fa55547eb815bd4c1b1f648148a7b",
+"description":"温馨提示：首次下载的用户才可获得奖励|<br />1.长按虚线，复制“ 旅行去哪儿”|<br />2.打开App Store，粘贴关键词并搜索|<br />3.找到“去哪儿旅行”（约第1位）|<br />4.下载后打开试用3分钟，领取奖励<br />",
+"total_number":160,
+"number":150,
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201607/0_fa7fa55547eb815bd4c1b1f648148a7b_128_128.png",
+"name":"去哪儿旅行",
+"href_params":"ad_id=fa7fa55547eb815bd4c1b1f648148a7b&ad_name=%E5%8E%BB%E5%93%AA%E5%84%BF%E6%97%85%E8%A1%8C&ad_url=https%3A%2F%2Fitunes.apple.com%2Fcn%2Fapp%2Fqu-na-er-lu-xing-ji-piao-jiu%2Fid395096736%3Fmt%3D8&snuid=&down=1&appid=818a97063d89227f1fe7aa5dbfc30694&deviceid=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&cid=IOS&activity_name=&lv=4.3.1A&number=150&money=%E7%A7%AF%E5%88%86&add_kj=true&active_time=45&app_package_name=com.wantuan.shiwan&pack_name=com.qunar.iphoneclient8&befour_tips=00&setup_tips=00&cate=%E8%AF%95%E7%94%A8&imsi=%28null%29%26%28null%29%26%28null%29%26%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1&create_time=1441008609&token=cbd1860a42b1d711eca6a62e8b172c7e&open_time=1470647293148&log_id=9b8e9b99a0ba1f2053940e6490c6fef3&step=chicken%2Cstep&ad_url_type=QunarAlipay%3A%2F%2F&openudid=88dbeddbf4d0d14b0875f5bf1e69b83dd3420ec3&open_url_type=0&process_name=QunariPhone_Cook_CM&os_version=8.4.1&needConfirmInstall=1&idfa=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&idfv=3DCB3974-394C-43CF-961A-78601F904B61&mac=",
+"pack_name":"com.qunar.iphoneclient8",
+"ad_url":"https://itunes.apple.com/cn/app/qu-na-er-lu-xing-ji-piao-jiu/id395096736?mt=8"
+},
+{
+"tasks":[
+{
+"task_type":"0",
+"name":"一天后再次使用可得",
+"task_id":"45313ca530e643a2e729b76faec6c34a",
+"step_rmb":5,
+"delta":"1",
+"task_desc":"二次激活"
+},
+{
+"task_type":"0",
+"name":"两天后再次使用可得",
+"task_id":"196a75d6efc7818b8bfdbc0b3f5eec63",
+"step_rmb":5,
+"delta":"2",
+"task_desc":"二次激活"
+},
+{
+"task_type":"0",
+"name":"三天后再次使用可得",
+"task_id":"73b169e12266e478f51414bce030ac0b",
+"step_rmb":5,
+"delta":"3",
+"task_desc":"二次激活"
+},
+{
+"task_type":"0",
+"name":"四天后再次使用可得",
+"task_id":"eb610197866cf729f68ba4c90f265a20",
+"step_rmb":5,
+"delta":"4",
+"task_desc":"二次激活"
+},
+{
+"task_type":"0",
+"name":"五天后再次使用可得",
+"task_id":"620c5221ba21f998ea0c1a3cf9dd0e06",
+"step_rmb":5,
+"delta":"5",
+"task_desc":"二次激活"
+}
+],
+"text":"首次下载并试用3分钟得奖励",
+"url_schema":"tencent100234077://",
+"rank":"7",
+"install_notify_permit":"1",
+"keywords":"711",
+"size":"97.4 MB",
+"pay_ad":0,
+"notInstalled":false,
+"remain":"195",
+"needConfirmInstall":1,
+"money":"积分",
+"tips":"下载后试玩3分钟",
+"device_id":"0B99DE85-6CA8-49A6-88C2-FD52F5BD1550",
+"thumbnail":{
+},
+"notice":"",
+"ad_id":"2c77180232a92c8cabef17eec17cbaf6",
+"description":"温馨提示：新用户安装并才可得到奖励！|<br />1.长按虚线，拷贝关键词“711”；|<br />2.在AppStore中，粘贴并搜索；|<br />3.找到“1号店”（第7名）下载打开并激活；|<br />4.打开APP，真实体验3分钟！",
+"total_number":205,
+"number":180,
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201608/0_2c77180232a92c8cabef17eec17cbaf6_128_128.png",
+"name":"1号店",
+"href_params":"ad_id=2c77180232a92c8cabef17eec17cbaf6&ad_name=1%E5%8F%B7%E5%BA%97&ad_url=https%3A%2F%2Fitunes.apple.com%2Fcn%2Fapp%2Fid427457043%3Fmt%3D8&snuid=&down=1&appid=818a97063d89227f1fe7aa5dbfc30694&deviceid=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&cid=IOS&activity_name=&lv=4.3.1A&number=180&money=%E7%A7%AF%E5%88%86&add_kj=true&active_time=35&app_package_name=com.wantuan.shiwan&pack_name=com.yihaodian.onethestore&befour_tips=00&setup_tips=00&cate=%E8%AF%95%E7%94%A8&imsi=%28null%29%26%28null%29%26%28null%29%26%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1&create_time=1470452985&token=13f8c2e0c233bd6f0d06e6894a006519&open_time=1470647293149&log_id=9b8e9b99a0ba1f2053940e6490c6fef3&step=chicken%2Cstep&ad_url_type=tencent100234077%3A%2F%2F&openudid=88dbeddbf4d0d14b0875f5bf1e69b83dd3420ec3&open_url_type=1&process_name=OneStoreUniversal&os_version=8.4.1&needConfirmInstall=1&idfa=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&idfv=3DCB3974-394C-43CF-961A-78601F904B61&mac=",
+"pack_name":"com.yihaodian.onethestore",
+"ad_url":"https://itunes.apple.com/cn/app/id427457043?mt=8"
+},
+{
+"tasks":[
+{
+"task_type":"0",
+"name":"一天后再次使用可得",
+"task_id":"ec88c629ab6539be608e901999c06421",
+"step_rmb":5,
+"delta":"1",
+"task_desc":"二次激活"
+}
+],
+"text":"首次下载试用3分钟得奖励",
+"url_schema":"TUNIUIPHONE://",
+"rank":"4",
+"install_notify_permit":"1",
+"keywords":"去哪儿",
+"size":"141 MB",
+"pay_ad":0,
+"notInstalled":false,
+"remain":"437",
+"needConfirmInstall":1,
+"money":"积分",
+"tips":"安装试用3分钟",
+"device_id":"0B99DE85-6CA8-49A6-88C2-FD52F5BD1550",
+"thumbnail":{
+},
+"notice":"请一定使用3分钟，否则无法获得奖励",
+"ad_id":"8172194ae069d4740105a7f459c537a7",
+"description":"温馨提示：请一定使用3分钟，否则无奖励！|<br />1.长按虚线，拷贝关键词“去哪儿”|<br />2.在AppStore中，粘贴并搜索|<br />3.找到“途牛旅游”（约第4名）下载app|<br />4.使用手机号码注册，登录试用3分钟，领取奖励",
+"total_number":185,
+"number":180,
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201608/0_8172194ae069d4740105a7f459c537a7_128_128.png",
+"name":"途牛旅游",
+"href_params":"ad_id=8172194ae069d4740105a7f459c537a7&ad_name=%E9%80%94%E7%89%9B%E6%97%85%E6%B8%B8&ad_url=https%3A%2F%2Fitunes.apple.com%2Fcn%2Fapp%2Ftu-niu-lu-you-ding-ji-piao%2Fid447313708%3Fmt%3D8&snuid=&down=1&appid=818a97063d89227f1fe7aa5dbfc30694&deviceid=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&cid=IOS&activity_name=&lv=4.3.1A&number=180&money=%E7%A7%AF%E5%88%86&add_kj=true&active_time=185&app_package_name=com.wantuan.shiwan&pack_name=com.tuniu.app&befour_tips=00&setup_tips=00&cate=%E8%AF%95%E7%94%A8&imsi=%28null%29%26%28null%29%26%28null%29%26%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1&create_time=1439451062&token=6310632ab1f158f9ae87b4f514472324&open_time=1470647293149&log_id=9b8e9b99a0ba1f2053940e6490c6fef3&step=chicken%2Cstep&ad_url_type=TUNIUIPHONE%3A%2F%2F&openudid=88dbeddbf4d0d14b0875f5bf1e69b83dd3420ec3&open_url_type=0&process_name=TuNiuApp&os_version=8.4.1&needConfirmInstall=1&idfa=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&idfv=3DCB3974-394C-43CF-961A-78601F904B61&mac=",
+"pack_name":"com.tuniu.app",
+"ad_url":"https://itunes.apple.com/cn/app/tu-niu-lu-you-ding-ji-piao/id447313708?mt=8"
+}
+],
+"task_offers":[
+{
+"tasks":[
+{
+"due_date":"",
+"name":"一天后再次使用可得",
+"href_params":"",
+"step_rmb":5,
+"date_diff":0,
+"ad_task_id":"c85bbdef6a49b51ac0aa1a0f28abd0a4",
+"task_status":0
+},
+{
+"due_date":"",
+"name":"两天后再次使用可得",
+"href_params":"",
+"step_rmb":5,
+"date_diff":0,
+"ad_task_id":"8195630c7bb1adcc6712b4e25e613c72",
+"task_status":0
+},
+{
+"due_date":"",
+"name":"三天后再次使用可得",
+"href_params":"",
+"step_rmb":5,
+"date_diff":0,
+"ad_task_id":"b47aea969285ee8014b1a201fd5d4fb7",
+"task_status":0
+},
+{
+"due_date":"",
+"name":"四天后再次使用可得",
+"href_params":"",
+"step_rmb":5,
+"date_diff":0,
+"ad_task_id":"ef0a845279812b5a0f51de80b1af3ac8",
+"task_status":0
+},
+{
+"due_date":"2016-08-09",
+"name":"五天后再次使用可得",
+"href_params":"",
+"step_rmb":5,
+"date_diff":1,
+"ad_task_id":"73da1752df01f2f68cd24d3b92aa6b6a",
+"task_status":2
+}
+],
+"ad_id":"d5c5ea4eccbfb362d19a2370fdaa00f8",
+"name":"mo9信用钱包",
+"url_schema":"wx8c32436cdc0a8b12://",
+"ad_url":"https://itunes.apple.com/cn/app/mo9xin-yong-qian-bao-dai-kuan/id747276899?mt=8",
+"size":"27.2 MB",
+"has_doing_task":0,
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201606/1_d5c5ea4eccbfb362d19a2370fdaa00f8_128_128.png"
+},
+{
+"tasks":[
+{
+"due_date":"",
+"name":"一天后再次使用可得",
+"href_params":"",
+"step_rmb":10,
+"date_diff":0,
+"ad_task_id":"71472ff74c63a7ee37d699ec2bd3eab5",
+"task_status":0
+},
+{
+"due_date":"",
+"name":"两天后再次使用可得",
+"href_params":"",
+"step_rmb":5,
+"date_diff":0,
+"ad_task_id":"5ba6fe88fc004d45545d0a7eab6d7ea9",
+"task_status":0
+},
+{
+"due_date":"2016-08-10",
+"name":"五天后再次使用可得",
+"href_params":"",
+"step_rmb":10,
+"date_diff":2,
+"ad_task_id":"0201c8474f78e360ea879d6a094d5909",
+"task_status":1
+},
+{
+"due_date":"2016-08-12",
+"name":"七天后再次使用可得",
+"href_params":"",
+"step_rmb":15,
+"date_diff":4,
+"ad_task_id":"33a80fbc7f5027bc87f393ba6fcd5286",
+"task_status":2
+}
+],
+"ad_id":"d30c7ae0ad631eb7fc8ab6a82ed69019",
+"name":"二手车之家",
+"url_schema":"usedcar://",
+"ad_url":"https://itunes.apple.com/cn/app/er-shou-che-qi-che-zhi-jia/id455177952?mt=8",
+"size":"29.9 MB",
+"has_doing_task":0,
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201605/1_d30c7ae0ad631eb7fc8ab6a82ed69019_128_128.png"
+},
+{
+"tasks":[
+{
+"due_date":"2016-08-09",
+"name":"一天后再次使用可得",
+"href_params":"",
+"step_rmb":5,
+"date_diff":1,
+"ad_task_id":"0543c80a8a8ee28ec4e7d5cae996522b",
+"task_status":1
+},
+{
+"due_date":"2016-08-10",
+"name":"两天后再次使用可得",
+"href_params":"",
+"step_rmb":5,
+"date_diff":2,
+"ad_task_id":"faf10a7d74797ce1eef3af89f5c99925",
+"task_status":2
+},
+{
+"due_date":"2016-08-11",
+"name":"三天后再次使用可得",
+"href_params":"",
+"step_rmb":5,
+"date_diff":3,
+"ad_task_id":"1d5ba2d57c40a75e7a8dcefc690296b3",
+"task_status":2
+},
+{
+"due_date":"2016-08-12",
+"name":"四天后再次使用可得",
+"href_params":"",
+"step_rmb":5,
+"date_diff":4,
+"ad_task_id":"f2456a2db951dac0e4b421835dcdbbef",
+"task_status":2
+},
+{
+"due_date":"2016-08-13",
+"name":"五天后再次使用可得",
+"href_params":"",
+"step_rmb":5,
+"date_diff":5,
+"ad_task_id":"2173d1603078e428b28ed82cf07c1555",
+"task_status":2
+}
+],
+"ad_id":"50b85a9c07cf32764f116f7f74d3ce1a",
+"name":"1号店",
+"url_schema":"tencent100234077://",
+"ad_url":"https://itunes.apple.com/cn/app/id427457043?mt=8",
+"size":"97.4 MB",
+"has_doing_task":0,
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201608/0_2c77180232a92c8cabef17eec17cbaf6_128_128.png"
+}
+],
+"cp_offers":{
+},
+"offers":[
+{
+"tasks":[
+{
+"task_type":"0",
+"name":"一天后再次使用可得",
+"task_id":"7177b2a5ace4779a27a09a15cc9d46f9",
+"step_rmb":5,
+"delta":"1",
+"task_desc":"二次激活"
+},
+{
+"task_type":"0",
+"name":"两天后再次使用可得",
+"task_id":"20c88fdb48c9504f52ad83a6164919b8",
+"step_rmb":5,
+"delta":"2",
+"task_desc":"二次激活"
+},
+{
+"task_type":"0",
+"name":"三天后再次使用可得",
+"task_id":"e9c76f13fe0845dcf3537fc7241e9410",
+"step_rmb":5,
+"delta":"3",
+"task_desc":"二次激活"
+},
+{
+"task_type":"0",
+"name":"五天后再次使用可得",
+"task_id":"8576d2e2bb9bfeba9049ec82a694d152",
+"step_rmb":5,
+"delta":"5",
+"task_desc":"二次激活"
+}
+],
+"text":"下载注册成功试用3分钟可得奖励",
+"url_schema":"wx97fe7decfe4f8868://",
+"rank":"24",
+"install_notify_permit":"1",
+"keywords":"借钱",
+"size":"16.4 MB",
+"pay_ad":0,
+"notInstalled":true,
+"remain":278,
+"needConfirmInstall":1,
+"money":"积分",
+"tips":"注册并试用3分钟",
+"device_id":"0B99DE85-6CA8-49A6-88C2-FD52F5BD1550",
+"thumbnail":{
+},
+"notice":"请认准logo上的标识，不要下错",
+"ad_id":"01e25f01b7cac332faf825df0fa2dd42",
+"description":"温馨提示：请认准logo，不要下错哦，注册成功才可领取奖励哦|<br />1.长按虚线，复制关键词“借钱”|<br />2.打开App Store，粘贴关键词并搜索|<br />3.请认准产品logo（约第24名）完成下载；|<br />4.打开app，使用手机号码注册，领取奖励",
+"total_number":170,
+"number":150,
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201607/0_01e25f01b7cac332faf825df0fa2dd42_128_128.png",
+"name":"借钱",
+"href_params":"ad_id=01e25f01b7cac332faf825df0fa2dd42&ad_name=%E5%80%9F%E9%92%B1&ad_url=https%3A%2F%2Fitunes.apple.com%2Fcn%2Fapp%2Fpai-pai-dai-jie-kuan-quan%2Fid983488107%3Fmt%3D8&snuid=&down=0&appid=818a97063d89227f1fe7aa5dbfc30694&deviceid=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&cid=IOS&activity_name=&lv=4.3.1A&number=150&money=%E7%A7%AF%E5%88%86&add_kj=true&active_time=65&app_package_name=com.wantuan.shiwan&pack_name=com.ppdai.loan&befour_tips=00&setup_tips=%E8%AF%B7%3Cspan+style%3D%22color%3A%23999999%22%3E%E6%B3%A8%E5%86%8C%E5%B9%B6%E8%AF%95%E7%94%A83%E5%88%86%E9%92%9F%3C%2Fspan%3E%EF%BC%8C%E5%8F%AF%E8%BD%BB%E6%9D%BE%E8%8E%B7%E5%BE%97%E5%A5%96%E5%8A%B1%EF%BC%81&cate=%E6%B3%A8%E5%86%8C&imsi=%28null%29%26%28null%29%26%28null%29%26%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1&create_time=1458024190&token=10e5638cf185330cd5cb4e51a74559af&open_time=1470647293146&log_id=9b8e9b99a0ba1f2053940e6490c6fef3&step=chicken%2Cstep&ad_url_type=wx97fe7decfe4f8868%3A%2F%2F&openudid=88dbeddbf4d0d14b0875f5bf1e69b83dd3420ec3&open_url_type=0&process_name=Loan&os_version=8.4.1&needConfirmInstall=1&idfa=0B99DE85-6CA8-49A6-88C2-FD52F5BD1550&idfv=3DCB3974-394C-43CF-961A-78601F904B61&mac=",
+"pack_name":"com.ppdai.loan",
+"ad_url":"https://itunes.apple.com/cn/app/pai-pai-dai-jie-kuan-quan/id983488107?mt=8"
+},
+{
+"uptime":"17:20",
+"ad_id":"148d02fe797af66654202c8f7ad0907c",
+"name":"打折苏宁易购",
+"href_params":false,
+"number":180,
+"pack_name":"SuningEMall",
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201608/0_148d02fe797af66654202c8f7ad0907c.png"
+},
+{
+"uptime":"17:30",
+"ad_id":"24a61b4e4650c39d156901fd0bbbf7bb",
+"name":"携程攻略",
+"href_params":false,
+"number":150,
+"pack_name":"com.ctrip.you",
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201607/0_24a61b4e4650c39d156901fd0bbbf7bb.png"
+},
+{
+"uptime":"17:30",
+"ad_id":"4a748cebf5b61ff5402fdbc7822b6fdd",
+"name":"卡牛",
+"href_params":false,
+"number":150,
+"pack_name":"com.feidee.MyCard",
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201607/0_4a748cebf5b61ff5402fdbc7822b6fdd.png"
+},
+{
+"uptime":"18:00",
+"ad_id":"1fccd182bd80ac6b814a7bf6ea497db4",
+"name":"美食",
+"href_params":false,
+"number":200,
+"pack_name":"com.yhouse.iphone",
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201607/0_1fccd182bd80ac6b814a7bf6ea497db4.png"
+},
+{
+"uptime":"18:00",
+"ad_id":"529feb8c22acbaa375a599ee84e0ad51",
+"name":"妈妈社区",
+"href_params":false,
+"number":200,
+"pack_name":"com.ci123.yunqiphone",
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201506/0_8bed8a9c1f36d75b4382389b4f8e2110.png"
+},
+{
+"uptime":"19:00",
+"ad_id":"4bae17d72bfc9db0e32dafb0d19447bc",
+"name":"Feel",
+"href_params":false,
+"number":150,
+"pack_name":"com.zhiyun168.feel",
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201607/0_4bae17d72bfc9db0e32dafb0d19447bc.png"
+},
+{
+"uptime":"明日8:00",
+"ad_id":"8907adbb5f5ae56939b613940dfc437e",
+"name":"折800",
+"href_params":false,
+"number":150,
+"pack_name":"com.tuan800.tao800iphone.tao800",
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201607/0_8907adbb5f5ae56939b613940dfc437e.png"
+},
+{
+"uptime":"明日8:00",
+"ad_id":"3b372d495e61e399186813c3ec35e02c",
+"name":"爱慕",
+"href_params":false,
+"number":180,
+"pack_name":"com.aimer.iphone",
+"icon":"http://tx-cdn.dianjoy.com/dev/upload/ad_url/201603/0_3b372d495e61e399186813c3ec35e02c.png"
+}
+],
+"total":9,
+"red":"http://198.11.169.235/red.html?gs_url=",
+"code": 200
+}

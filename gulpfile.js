@@ -8,17 +8,16 @@ const clean = require('gulp-clean')
 const minifyCss = require('gulp-cssnano')
 const postcss = require('gulp-postcss')
 const autoprefixer = require('autoprefixer')
-// const webpack = require('webpack')
-// const webpackConfig = require('./webpack.config');
-
-// gulp.task('webpack', function(){
-//   return gulp.src('./src')
-//              .pipe(webpack(webpackConfig))
-//             //  .pipe(gulp.dest('dest'))
-// })
+// var webpack = require('gulp-webpack');
+// var webpackConfig = require('./webpack.config.babel');
 
 gulp.task('sass', () => {
-	gulp.src(['./public/style/main.sass', './app/components/**/*.sass'])
+	// gulp.src('./src/routes/**/*.sass')
+	// 	.pipe(sass().on('error', sass.logError))
+	// 	.pipe(postcss([autoprefixer({ browsers: ['last 2 versions'] })]))
+	// 	.pipe(minifyCss({ zindex: false }))
+	// 	.pipe(gulp.dest('dist/'))
+	gulp.src(['./src/public/style/main.sass', './src/components/**/*.sass'])
     .pipe(concat('min.sass'))
     .pipe(sass().on('error', sass.logError))
     .pipe(postcss([
@@ -30,13 +29,13 @@ gulp.task('sass', () => {
 		]))
 		.pipe(minifyCss({ zindex: false }))
 		.pipe(gulp.dest('dist/style'))
-	gulp.src(['./public/style/main.sass', './app/components/**/*.sass'])
+	gulp.src(['./src/public/style/main.sass', './src/components/**/*.sass'])
 		.pipe(concat('min.sass'))
 		.pipe(gulp.dest('dist/style'))
 })
 
 gulp.task('html', () => {
-	gulp.src('./app/views/*.jade')
+	gulp.src('./src/views/*.jade')
     .pipe(jade({ pretty: true }))
     .pipe(gulp.dest('./dist/views/'))
 })
@@ -44,8 +43,8 @@ gulp.task('html', () => {
 gulp.task('image', () => {
 	gulp.src('./dist/img/*', { read: false })
     .pipe(clean())
-	gulp.src('./public/img/**')
-    .pipe(watch('./public/img/**'))
+	gulp.src('./src/public/img/**')
+    .pipe(watch('./src/public/img/**'))
     .pipe(
 			imagemin({
 				optimizationLevel: 5,
@@ -56,23 +55,29 @@ gulp.task('image', () => {
 })
 
 gulp.task('sass:watch', () => {
-	watch('./app/**/*.sass', () => {
+	watch('./src/**/*.sass', () => {
 		gulp.start('sass')
 	})
 })
 
 gulp.task('html:watch', () => {
-	watch('./app/**/*.jade', () => {
+	watch('./src/**/*.jade', () => {
 		gulp.start('html')
 	})
 })
 
 gulp.task('image:watch', () => {
-	watch('./public/img/**', () => {
+	watch('./src/public/img/**', () => {
 		gulp.start('image')
 	})
 })
 
-gulp.task('default', [ 'html', 'sass', 'image', 'html:watch', 'sass:watch', 'image:watch'], () => {
+// gulp.task('webpack', function() {
+// 	return gulp.src('./src')
+// 						 .pipe(webpack(webpackConfig))
+// 						 .pipe(gulp.dest('./dist'))
+// })
+
+gulp.task('default', ['html', 'sass', 'image', 'html:watch', 'sass:watch', 'image:watch'], () => {
 
 })
